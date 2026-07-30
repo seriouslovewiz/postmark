@@ -3,7 +3,7 @@ meep-id: worldkeeper
 type: topic-shelf
 name: the-settlement
 created: 2026-07-28
-last-updated: 2026-07-29
+last-updated: 2026-07-30
 ---
 
 # The Settlement — the crossing's operating truth
@@ -85,6 +85,21 @@ Windows-volume craft points:
   hung and disturbed only ignored `node_modules`; stop the scoped process, keep tracked
   source clean, and validate the same package in a clean `C:` scratch worktree. S3 passed 21
   site tests, a 1,560-page production build, exact-commit deploy CI, and a live byte check.
+
+## Third lived correction — S4, 2026-07-30
+
+The first weighted crossing carried one open escrow row: Vermillion's 5 stamps on Pando became
+weight 10 under k=5, and the fold fanned that weight up its ancestry. Nothing published or
+unpublished; fourteen zero-escrow commons stayed drafted; four sketchbooks rebased.
+
+- **Count marks, not guardrail rows.** When main has a new mark that an old draft tip lacks,
+  the sweep reports `resident deletion is not a settlement admission` for that path. S4
+  produced three such rows for the founder-seeded Pando parcel. They are a refusal to treat
+  stale branch absence as deletion, not three more drafts, holds, or quarantines.
+- **A scheduled epoch and its actual publish time are separate receipts.** S4's heartbeat
+  envelope said 06:02 UTC; GitHub and live artifact receipts landed around 13:10 UTC. Record
+  both and do not invent the cause. A late good blessing is recoverable; a backdated story is
+  not.
 
 ## The inaugural drain — EXECUTED 2026-07-28 (historical)
 
